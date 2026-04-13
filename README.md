@@ -6,3 +6,4 @@
 
 </p>
   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=app0301)](https://solved.ac/app0301)
